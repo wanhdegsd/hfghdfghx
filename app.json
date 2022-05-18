@@ -1,0 +1,22 @@
+{
+    "name": "ovo",
+    "description": "ovo.",
+    "keywords": ["V2Ray"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "dbd3e49e-b457-4a97-8033-eb7f9e5fe4e7"
+        },
+        "AID": {
+            "description": "AlterID",
+            "value": "64"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://github.com/ wanhdegsd /hfghdfghx/",
+    "repository": "https://github.com/ wanhdegsd /hfghdfghx",
+    "stack": "container"
+}
